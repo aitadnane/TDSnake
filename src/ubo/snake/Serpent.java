@@ -5,6 +5,17 @@ import java.awt.Graphics2D;
 import java.awt.RenderingHints;
 import java.util.LinkedList;
 
+/*
+ * La classe Serpent 
+ * 
+ * Déplacer et avancer le serpent
+ * 
+ * Retourner la case suivante
+ * 
+ * Vérifier l'état d'avancement
+ * 
+ * */
+
 public class Serpent {
 
       private LinkedList<Case> list;
