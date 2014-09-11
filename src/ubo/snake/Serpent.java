@@ -4,7 +4,7 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.RenderingHints;
 import java.util.LinkedList;
-
+// Creation de la classe serpent
 public class Serpent {
 
       private LinkedList<Case> list;
